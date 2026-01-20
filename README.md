@@ -32,4 +32,4 @@ Cybersecurity | Ethical Hacking | Web Development | AI/ML | Self-Hosted Infrastr
 ## Let's Connect
 
 - **Email:** [scakravrthi04@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/shanjif-cakravrthi-10a1aa349]
+- **LinkedIn:** [Shanjif Cakravrthi](www.linkedin.com/in/shanjif-cakravrthi-10a1aa349)
