@@ -25,9 +25,9 @@ Cybersecurity | Ethical Hacking | Web Development | AI/ML | Self-Hosted Infrastr
 
 ## Featured Projects
 
-**🤖 AI Legal Document Assistant** - Final year diploma project featuring an AI chatbot that helps law firms analyze case documents, extracting key points and reducing workload by 50%+. Currently optimizing with various models.
+**AI Legal Document Assistant** - Final year diploma project featuring an AI chatbot that helps law firms analyze case documents, extracting key points and reducing workload by 50%+. Currently optimizing with various models.
 
-**🖥️ Homelab Server** - Self-hosted Ubuntu server running Nextcloud and Immich for personal cloud storage and photo management.
+**Homelab Server** - Self-hosted Ubuntu server running Nextcloud and Immich for personal cloud storage and photo management.
 
 ## Let's Connect
 
